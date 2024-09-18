@@ -7,6 +7,7 @@ class Solution {
             if(digits[i]+1<10){
             digits[i]++;
             return digits;
+            
         }
         else{
             digits[i]=0;
